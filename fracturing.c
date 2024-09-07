@@ -14,11 +14,11 @@ double calculateDistance() {
     printf("Enter x1: ");
     scanf("%lf", &x1);
 
-    printf("Enter y1: ");
-    scanf("%lf", &y1);
-
     printf("Enter x2: ");
     scanf("%lf", &x2);
+
+    printf("Enter y1: ");
+    scanf("%lf", &y1);
 
     printf("Enter y2: \n");
     scanf("%lf", &y2);
